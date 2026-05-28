@@ -1,6 +1,7 @@
 # Eigene Regeln
 .vscode
 .DS_Store
+group-notebooks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
